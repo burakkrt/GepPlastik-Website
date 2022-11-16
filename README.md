@@ -25,9 +25,6 @@ AOS ile bölümler arası geçişler görsel estetik açısından animasyonla s�
 - [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/)
 
 ## Projeden Görüntüler
-![QuizBox Projesinden Bir Görüntü](screenshootApp0.png)
-![QuizBox Projesinden Bir Görüntü](screenshootApp1.png)
-![QuizBox Projesinden Bir Görüntü](screenshootApp2.png)
 
 ## License
 - #### MIT
