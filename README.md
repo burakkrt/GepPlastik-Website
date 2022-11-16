@@ -5,7 +5,7 @@
 
 ### Proje Tanımı
 GEP Plastik San. Tic. A.Ş. firması için One Page, mobil, tablet ve masaüstü duyarlılığa sahip kurumsal web sitesi olarak tasarlanmıştır.
-Aynı zamanda `İngilizce ve Arapça` dil seçeneği potansiyel müşteriler için dil seçenekleri eklenmiştir.
+Aynı zamanda `İngilizce ve Arapça` dil seçeneği potansiyel müşteriler için anlam kazandırılmıştır.
 
 ### Tasarım ve Düzen
 HTML, CSS ve Javascript temelli olan projede firmanın logo (turkuaza rengine yakın) rengi temel alınarak renk paleti oluşturulmuş ve kullanılmıştır.
