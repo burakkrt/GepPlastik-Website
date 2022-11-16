@@ -25,6 +25,7 @@ AOS ile bölümler arası geçişler görsel estetik açısından animasyonla s�
 - [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/)
 
 ## Projeden Görüntüler
+**test**
 
 ## License
 - #### MIT
