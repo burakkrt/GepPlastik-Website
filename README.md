@@ -1,14 +1,17 @@
-# #Gep Plastik
+# #GEP Plastik San. Tic. A.Ş.
 
 ### Proje Tanımı
 GEP Plastik San. Tic. A.Ş. firması için One Page, mobil, tablet ve masaüstü duyarlılığa sahip kurumsal web sitesi olarak tasarlanmıştır.
+Aynı zamanda `İngilizce ve Arapça` dil seçeneği potansiyel müşteriler için dil seçenekleri eklenmiştir.
 
 > Bu proje freelance olarak GEP Plastik San. Tic. A.Ş. için tasarlanmış olup kaynak kod paylaşımı için gerekli izinler alınmıştır.
+> Logo ve GEP Plastik San. Tic. A.Ş. kişisel bilgileri kaldırıldığı sürece kullanıma ve geliştirilmeye açıktır.
 
 ### Tasarım ve Düzen
 HTML, CSS ve Javascript temelli olan projede firmanın logo (turkuaza rengine yakın) rengi temel alınarak renk paleti oluşturulmuş ve kullanılmıştır.
+AOS ile bölümler arası geçişler görsel estetik açısından animasyonla süslenmiştir.
 
-### Live : [Employee List Website](https://gepplastik.com.tr/index.html)
+### Live : [GEP Plastik San. Tic. A.Ş.](https://gepplastik.com.tr/index.html)
 
 ## Kullanılan Teknolojiler
 - HTML
