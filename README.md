@@ -27,6 +27,7 @@ AOS ile bölümler arası geçişler görsel estetik açısından animasyonla s�
 ## Projeden Görüntüler
 ![screenshootGep1](https://user-images.githubusercontent.com/99482906/202310315-e912dd02-4545-4739-a6bb-6ef0f6b6ae7c.png)
 ![screenshootGep2](https://user-images.githubusercontent.com/99482906/202310326-a8e841c4-20a3-4b4a-a8ac-ee6892db62cc.png)
+![screenshootGep4](https://user-images.githubusercontent.com/99482906/202310464-a90f1b06-2fd5-45ac-96ed-81b75b5edd21.png)
 ![screenshootGep3](https://user-images.githubusercontent.com/99482906/202310338-96a8ea3f-4e7c-4d7f-99bf-409d8822c21d.png)
 
 ## License
