@@ -1,2 +1,0 @@
-Bu web site GEP Plastik San. Tic. A.Ş. adına "gepplastik.com.tr" için entegre edilip düzenlenmiştir.
-GEP Plastik San. Tic. A.Ş. tüm haklarını saklı tutar ve herhangi bir hak ihlali durumunda hukuki sürece başvurmaktan çekinmez.
