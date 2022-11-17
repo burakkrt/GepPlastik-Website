@@ -11,7 +11,7 @@ Aynı zamanda `İngilizce ve Arapça` dil seçeneği potansiyel müşteriler iç
 HTML, CSS ve Javascript temelli olan projede firmanın logo (turkuaza rengine yakın) rengi temel alınarak renk paleti oluşturulmuş ve kullanılmıştır.
 AOS ile bölümler arası geçişler görsel estetik açısından animasyonla süslendi.
 
-### Live : [GEP Plastik San. Tic. A.Ş.](https://gepplastik.com.tr/index.html)
+### Live : [GEP Plastik Web Site](https://gep-plastik.netlify.app)
 
 ## Kullanılan Teknolojiler
 - HTML
