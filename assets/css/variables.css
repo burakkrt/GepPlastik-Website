@@ -1,29 +1,10 @@
-/**
-* Template Name: HeroBiz
-* File: variables.css
-* Description: Easily customize colors, typography, and other repetitive properties used in the template main stylesheet file main.css
-* 
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-* 
-* Contents:
-* 1. HeroBiz template variables 
-* 2. Override default Bootstrap variables
-* 3. Set color and background class names
-*
-* Learn more about CSS variables at https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
-*/
-
-/*--------------------------------------------------------------
-# 1. HeroBiz template variables 
---------------------------------------------------------------*/
 :root {
-
   /* Fonts */
-  --font-default: 'Open Sans', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-primary: 'Source Sans Pro', sans-serif;
-  --font-secondary: 'Poppins', sans-serif;
+  --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-primary: "Source Sans Pro", sans-serif;
+  --font-secondary: "Poppins", sans-serif;
 
   /* Colors */
   /* The *-rgb color names are simply the RGB converted value of the corresponding color for use in the rgba() function */
@@ -93,14 +74,12 @@
 
   --color-black: #000000;
   --color-black-rgb: 0, 0, 0;
-  
 }
 
 /*--------------------------------------------------------------
 # 2. Override default Bootstrap variables
 --------------------------------------------------------------*/
 :root {
-
   --bs-blue: var(--color-blue);
   --bs-indigo: var(--color-indigo);
   --bs-purple: var(--color-purple);
@@ -144,67 +123,161 @@
   --bs-body-color-rgb: var(--color-default-rgb);
   --bs-body-bg-rgb: 255, 255, 255;
   --bs-font-sans-serif: var(--font-default);
-  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  --bs-gradient: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15),
+    rgba(255, 255, 255, 0)
+  );
   --bs-body-font-family: var(--font-default);
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: var(--color-default);
   --bs-body-bg: #fff;
-
 }
 
 /*--------------------------------------------------------------
 # 3. Set color and background class names
 --------------------------------------------------------------*/
 /* Fonts */
-.font-default { font-family: var(--font-default) !important; }
-.font-primary { font-family: var(--font-primary) !important;}
-.font-secondary { font-family: var(--font-secondary) !important; }
+.font-default {
+  font-family: var(--font-default) !important;
+}
+.font-primary {
+  font-family: var(--font-primary) !important;
+}
+.font-secondary {
+  font-family: var(--font-secondary) !important;
+}
 
 /* Text Colors */
-.color-default { color: var(--color-default) !important; }
-.color-links { color: var(--color-links) !important; }
-.color-links:hover { color: var(--color-links-hover) !important; }
-.color-primary { color: var(--color-primary) !important; }
-.color-primary-light { color: var(--color-primary-light) !important; }
-.color-primary-dark { color: var(--color-primary-dark) !important; }
-.color-secondary { color: var(--color-secondary) !important; }
-.color-secondary-light { color: var(--color-secondary-light) !important; }
-.color-secondary-dark { color: var(--color-secondary-dark) !important; }
-.color-blue { color: var(--color-blue) !important; }
-.color-indigo { color: var(--color-indigo) !important; }
-.color-purple { color: var(--color-purple) !important; }
-.color-pink { color: var(--color-pink) !important; }
-.color-red { color: var(--color-red) !important; }
-.color-orange { color: var(--color-orange) !important; }
-.color-yellow { color: var(--color-yellow) !important; }
-.color-green { color: var(--color-green) !important; }
-.color-teal { color: var(--color-teal) !important; }
-.color-cyan { color: var(--color-cyan) !important; }
-.color-white { color: var(--color-white) !important; }
-.color-gray { color: var(--color-gray) !important; }
-.color-black { color: var(--color-black) !important; }
+.color-default {
+  color: var(--color-default) !important;
+}
+.color-links {
+  color: var(--color-links) !important;
+}
+.color-links:hover {
+  color: var(--color-links-hover) !important;
+}
+.color-primary {
+  color: var(--color-primary) !important;
+}
+.color-primary-light {
+  color: var(--color-primary-light) !important;
+}
+.color-primary-dark {
+  color: var(--color-primary-dark) !important;
+}
+.color-secondary {
+  color: var(--color-secondary) !important;
+}
+.color-secondary-light {
+  color: var(--color-secondary-light) !important;
+}
+.color-secondary-dark {
+  color: var(--color-secondary-dark) !important;
+}
+.color-blue {
+  color: var(--color-blue) !important;
+}
+.color-indigo {
+  color: var(--color-indigo) !important;
+}
+.color-purple {
+  color: var(--color-purple) !important;
+}
+.color-pink {
+  color: var(--color-pink) !important;
+}
+.color-red {
+  color: var(--color-red) !important;
+}
+.color-orange {
+  color: var(--color-orange) !important;
+}
+.color-yellow {
+  color: var(--color-yellow) !important;
+}
+.color-green {
+  color: var(--color-green) !important;
+}
+.color-teal {
+  color: var(--color-teal) !important;
+}
+.color-cyan {
+  color: var(--color-cyan) !important;
+}
+.color-white {
+  color: var(--color-white) !important;
+}
+.color-gray {
+  color: var(--color-gray) !important;
+}
+.color-black {
+  color: var(--color-black) !important;
+}
 
 /* Background Colors */
-.bg-default { background-color: var(--color-default) !important; }
-.bg-primary { background-color: var(--color-primary) !important; }
-.bg-primary-light { background-color: var(--color-primary-light) !important; }
-.bg-primary-dark { background-color: var(--color-primary-dark) !important; }
-.bg-secondary { background-color: var(--color-secondary) !important; }
-.bg-secondary-light { background-color: var(--color-secondary-light) !important; }
-.bg-secondary-dark { background-color: var(--color-secondary-dark) !important; }
-.bg-blue { background-color: var(--color-blue) !important; }
-.bg-indigo { background-color: var(--color-indigo) !important; }
-.bg-purple { background-color: var(--color-purple) !important; }
-.bg-pink { background-color: var(--color-pink) !important; }
-.bg-red { background-color: var(--color-red) !important; }
-.bg-orange { background-color: var(--color-orange) !important; }
-.bg-yellow { background-color: var(--color-yellow) !important; }
-.bg-green { background-color: var(--color-green) !important; }
-.bg-teal { background-color: var(--color-teal) !important; }
-.bg-cyan { background-color: var(--color-cyan) !important; }
-.bg-white { background-color: var(--color-white) !important; }
-.bg-gray { background-color: var(--color-gray) !important; }
-.bg-black { background-color: var(--color-black) !important; }
+.bg-default {
+  background-color: var(--color-default) !important;
+}
+.bg-primary {
+  background-color: var(--color-primary) !important;
+}
+.bg-primary-light {
+  background-color: var(--color-primary-light) !important;
+}
+.bg-primary-dark {
+  background-color: var(--color-primary-dark) !important;
+}
+.bg-secondary {
+  background-color: var(--color-secondary) !important;
+}
+.bg-secondary-light {
+  background-color: var(--color-secondary-light) !important;
+}
+.bg-secondary-dark {
+  background-color: var(--color-secondary-dark) !important;
+}
+.bg-blue {
+  background-color: var(--color-blue) !important;
+}
+.bg-indigo {
+  background-color: var(--color-indigo) !important;
+}
+.bg-purple {
+  background-color: var(--color-purple) !important;
+}
+.bg-pink {
+  background-color: var(--color-pink) !important;
+}
+.bg-red {
+  background-color: var(--color-red) !important;
+}
+.bg-orange {
+  background-color: var(--color-orange) !important;
+}
+.bg-yellow {
+  background-color: var(--color-yellow) !important;
+}
+.bg-green {
+  background-color: var(--color-green) !important;
+}
+.bg-teal {
+  background-color: var(--color-teal) !important;
+}
+.bg-cyan {
+  background-color: var(--color-cyan) !important;
+}
+.bg-white {
+  background-color: var(--color-white) !important;
+}
+.bg-gray {
+  background-color: var(--color-gray) !important;
+}
+.bg-black {
+  background-color: var(--color-black) !important;
+}
